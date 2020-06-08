@@ -1,0 +1,22 @@
+##
+# 非代码文件清单
+##
+
+
+# idea
+.idea/
+*.iml
+**/*.iml
+
+# 编译文件
+target/
+output/
+
+# 日志
+LOG*/
+
+bin
+.settings
+.classpath
+.project
+
