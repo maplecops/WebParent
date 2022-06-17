@@ -30,7 +30,7 @@
         <druid-spring-boot-starter.version>1.1.9</druid-spring-boot-starter.version>
         <mybatis-plus-boot-starter.version>2.1.9</mybatis-plus-boot-starter.version>
         <activiti.version>5.22.0</activiti.version>
-        <fastjson.version>1.2.56</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <mybatis-plus.version>2.2.0</mybatis-plus.version>
         <springfox-swagger2.version>2.7.0</springfox-swagger2.version>
         <commons-lang3.version>3.3.2</commons-lang3.version>
